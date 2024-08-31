@@ -1,3 +1,0 @@
-Manzana,Manzana,4,0.23
-1234,Pera,23,0.24
-3456,Toronja,23,0.5
